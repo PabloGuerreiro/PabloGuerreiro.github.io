@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/generar-mas/</loc>
+    <loc>https://www.lapuntanet.com.ar/posts/generar-mas/</loc>
     <lastmod>2022-10-08T08:24:53-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://www.lapuntanet.com.ar/posts/</loc>
     <lastmod>2022-10-08T08:24:53-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://www.lapuntanet.com.ar/</loc>
     <lastmod>2022-10-08T08:24:53-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/esto-es-hugo/</loc>
+    <loc>https://www.lapuntanet.com.ar/posts/esto-es-hugo/</loc>
     <lastmod>2022-10-08T08:24:38-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://www.lapuntanet.com.ar/contacto/</loc>
     <lastmod>2022-10-08T08:19:51-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://www.lapuntanet.com.ar/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://www.lapuntanet.com.ar/tags/</loc>
   </url>
 </urlset>
